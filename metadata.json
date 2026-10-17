@@ -1,0 +1,6 @@
+{
+  "name": "MyTrip Planner - Mysore Heritage & Route Explorer",
+  "description": "An opulent, interactive Mysore trip planner with Google Maps access, customizable emojis, live photo galleries, rich royal themes, timeline, and budget management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

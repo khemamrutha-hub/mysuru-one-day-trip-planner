@@ -1,0 +1,41 @@
+========================================================================
+🏰 MYTRIP PLANNER — MYSORE HERITAGE & ROUTE EXPLORER (FIXED & READY)
+========================================================================
+
+HOW TO RUN IN VS CODE USING LIVE SERVER (1-CLICK):
+--------------------------------------------------
+1. Extract this ZIP file.
+2. In VS Code, click: File -> Open Folder...
+   Select the extracted folder ("mytrip-planner-mysore-fixed").
+3. In the VS Code File Explorer on the left:
+   - Expand the "dist" folder.
+   - Right-click "index.html" inside "dist" (or the root "index.html").
+   - Click "Open with Live Server".
+4. Your browser will automatically open:
+   http://127.0.0.1:5500/dist/index.html
+5. Enjoy exploring the opulent Mysore trip planner, interactive Leaflet
+   maps, step-by-step itineraries, real-time budget calculator, and royal themes!
+
+NOTE:
+- NO terminal commands are required to run with Live Server!
+- The project has already been pre-compiled and configured with relative
+  paths so it runs immediately out of the box.
+
+--------------------------------------------------
+ADVANCED: RUNNING WITH VITE DEV SERVER (OPTIONAL):
+--------------------------------------------------
+If you want to edit TypeScript or React files with instant hot-reloading:
+1. Open the folder in VS Code.
+2. Open terminal in VS Code (Ctrl + ~).
+3. Run:
+   npm install
+   npm run dev
+4. Open http://localhost:3000 in your browser.
+
+--------------------------------------------------
+ADVANCED: RUNNING WITH EXPRESS BACKEND (OPTIONAL):
+--------------------------------------------------
+1. npm run build
+2. npm start
+3. Open http://localhost:3000 in your browser.
+========================================================================
